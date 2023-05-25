@@ -1,4 +1,4 @@
-# CodeAlpha_Temperature_Converter By Surya Prakash Yadav For web Devlopment Interships in Code Alpha
+# CodeAlpha_Temperature_Converter By Surya Prakash Yadav tak By Code Alpha
 # Temperature Converter
 
 This is a basic web application for converting temperatures between Celsius and Fahrenheit. It includes HTML, CSS, and JavaScript files that work together to provide a user-friendly interface for temperature conversion.
